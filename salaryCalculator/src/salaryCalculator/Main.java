@@ -11,7 +11,7 @@ public class Main {
 		
 		
 		
-        salaryWBT = employee.salary+employee.bonus()-employee.tax();  //vergi, bonus ve çalışanın kendi maaşı ile bulunacak.
+                salaryWBT = employee.salary+employee.bonus()-employee.tax();  //vergi, bonus ve çalışanın kendi maaşı ile bulunacak.
 		totalSalary = salaryWBT+employee.raiseSalary();      // çalışanın kendi maaşı +artış+ bonus
 
 		
