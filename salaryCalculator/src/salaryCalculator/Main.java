@@ -15,6 +15,7 @@ public class Main {
 		totalSalary = salaryWBT+employee.raiseSalary();      // çalışanın kendi maaşı +artış+ bonus
 
 		
+		
 		System.out.println("Adı : " + employee.name);
 		System.out.println("Maaşı : " + employee.salary);
 		System.out.println("Çalışma Saati : " + employee.workHour);
